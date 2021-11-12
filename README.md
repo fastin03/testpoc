@@ -2,4 +2,4 @@
 
 king03@gmail.com 
 
-password: Pass!2018#234
+password: Pass2018234
